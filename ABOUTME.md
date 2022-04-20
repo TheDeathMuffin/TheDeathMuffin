@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheDeathMuffin!
+- 👋 Hi, I’m Samuel Long!
 - 👀 I’m interested in anything involving coding (web design, server-side programming, game development, automation, whatever it is!).
-- 🌱 I’m currently studying Applied Software Engineering and Network and Systems Administration at NKU. Specifically, I am learning Python, PHP, and Java.
+- 🌱 I’m currently studying Applied Software Engineering and Network and Systems Administration at NKU. Specifically, I am learning Python, PHP, JavaScript, SQL, and Java, C.
 - 💞️ I’m looking to collaborate on ...(nothing...yet)...
 - 📫 I can be contacted at longs6@mymail.nku.edu or at samlongTGLM1@gmail.com.
 
